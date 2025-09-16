@@ -1,6 +1,2 @@
-# 🎨 Renk Değiştirici
-
-Basit bir HTML/CSS/JS web projesi.
-Butona bastığında sayfanın arka plan rengi rastgele değişiyor. 
-
-## 📂 Dosya Yapısı
+🎨HTML/CSS/JS ile renk drğiştiren web sayfası
+https:// gurcanakkas-maker. github. io/renk-degistirici/
